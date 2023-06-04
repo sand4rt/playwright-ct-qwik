@@ -1,0 +1,3 @@
+packages:
+  - 'ct-qwik/**'
+  - 'playwright-ct-qwik/**'
